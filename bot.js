@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "510522025148678154"; // ايدي السررفر
-var channel = "510522025148678156";//ايدي الروم
+var server = "572509330063228928"; // ايدي السررفر
+var channel = "572509330063228930";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , CrazyWorld , **')
     },305);
